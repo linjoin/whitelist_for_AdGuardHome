@@ -1,0 +1,1 @@
+Allowlist for AdGuard
