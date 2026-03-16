@@ -1,1 +1,2 @@
-Allowlist for AdGuard
+- 适用于AdGuardHome的白名单
+- Whitelist for AdGuardHome
