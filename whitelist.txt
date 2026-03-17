@@ -2,7 +2,7 @@
 # 生成时间: 2026-03-17 00:23:40
 # 规则数量: 299
 
-@@|mi.com^$important
+@@||mi.com^$important
 @@||mi.cn^$important
 @@||xiaomi.com^$important
 @@||miui.com^$important
