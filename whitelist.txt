@@ -1,3 +1,4 @@
+@@||prod-chat-kimi.tos-cn-beijing.volces.com^$important
 @@||ads.iconntech.com^$important
 @@||ark.cn-beijing.volces.com^$client='10.20.0.1'
 @@||api.seayoo.com^$important
