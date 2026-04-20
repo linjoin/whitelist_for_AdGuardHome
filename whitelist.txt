@@ -1,3 +1,5 @@
+@@||stars.shuqireader.com^$important
+@@||adashx.ut.shuqi.com^$important
 @@||hyperos.developer.xiaomi.com^$important
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^$important
 @@||ads.iconntech.com^$important
